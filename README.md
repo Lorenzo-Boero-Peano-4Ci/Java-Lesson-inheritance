@@ -42,14 +42,14 @@ SuperClasse **ContoBancario**
     DESCRIZIONE DELLA PARTE TEORICA:
     
 ## EREDITARIETA':
-*Che cos'è: è una comodità che usiamo per collegare una sottoclasse ad una superclasse.
-*A cosa serve: La utilizziamo per dare ad una o più sottoclassi gli attributi ed i metodi della superclasse;
-*Come è stato utilizzato: abbiamo creato ContoEsteso, facendole ereditare metodi e attributi di ContoBancario;
+* Che cos'è: è una comodità che usiamo per collegare una sottoclasse ad una superclasse.
+* A cosa serve: La utilizziamo per dare ad una o più sottoclassi gli attributi ed i metodi della superclasse;
+* Come è stato utilizzato: abbiamo creato ContoEsteso, facendole ereditare metodi e attributi di ContoBancario;
 
 ## POLIMORFISMO:
-*Che cos'è: tramite il comando @Overload in una sottoclasse, possiamo modificare i metodi della superclasse.
-*A cosa serve: serve per modificare metodi nelle sottoclassi già dichiarati nella superclasse.
-*Come è stato utilizzato: l'abbiamo utilizzato tramite il metodo prelevaDenaro.
+* Che cos'è: tramite il comando @Overload in una sottoclasse, possiamo modificare i metodi della superclasse.
+* A cosa serve: serve per modificare metodi nelle sottoclassi già dichiarati nella superclasse.
+* Come è stato utilizzato: l'abbiamo utilizzato tramite il metodo prelevaDenaro.
 
 ## THIS:
 La parola this serve per riferirsi agli attributi o ai metodi locali stessi, che stiamo utilizzando all'interno di un metodo o di un costruttore, così da specificare ed evitare incomprensioni.
