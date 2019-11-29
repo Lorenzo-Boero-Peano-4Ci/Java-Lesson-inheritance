@@ -16,6 +16,9 @@ public class TestContoBancario {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        ContoBancario c1 = new ContoBancario("A1", 100);
+        System.out.println(c1.getnConto() + " " + c1.getBilancioConto());
     }
     
 }
