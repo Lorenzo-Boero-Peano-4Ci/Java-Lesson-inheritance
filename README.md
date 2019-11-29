@@ -47,7 +47,7 @@ SuperClasse **ContoBancario**
 * Come è stato utilizzato: abbiamo creato ContoEsteso, facendole ereditare metodi e attributi di ContoBancario;
 
 ## POLIMORFISMO:
-* Che cos'è: tramite il comando @Overload in una sottoclasse, possiamo modificare i metodi della superclasse.
+* Che cos'è: tramite il comando @Override in una sottoclasse, possiamo modificare i metodi della superclasse.
 * A cosa serve: serve per modificare metodi nelle sottoclassi già dichiarati nella superclasse.
 * Come è stato utilizzato: l'abbiamo utilizzato tramite il metodo prelevaDenaro.
 
